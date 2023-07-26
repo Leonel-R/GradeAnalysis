@@ -1,4 +1,4 @@
-# Grades Statistical Analysis
+# Grade Statistical Analysis
 Program that takes score inputs to perform statistical analysis 
 
 ### Instructions:
